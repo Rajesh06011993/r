@@ -1,0 +1,115 @@
+/* Background CSS begins*/
+
+.green-back{
+  background-color: #128c7e;
+  height: 34.5vh;
+  width: 100vw;
+}
+
+
+.mediumSize{
+
+  height: 20vh
+}
+
+.name{
+height: 13vh;
+color: white;
+}
+
+.logo{
+
+    border-radius: 10%;
+    padding-right: 1vw;
+    padding-left: 7vw;
+    padding-top: 4vh;
+    height: 10vh;
+}
+
+.low-back{
+  background-color: #ece5dd;
+  height: 65.5vh;
+}
+
+.low-back2{
+  background-color: white;
+  height: 65.5vh;
+}
+
+
+
+/* back ground CSS ends*/
+
+
+/*foreground CSS starts*/
+
+
+
+.white-back{
+    display: flex;
+    flex-direction:row;
+    position:absolute;
+    background-color: white;
+    padding-right: 20vw;
+    left: 16.5vw;
+    top: 15vh;
+    height: 69vh;
+    width: 67vw;
+    z-index:2;
+
+}
+
+.inner-back{
+  color: #484848 ;
+  padding-top: 7vh;
+  width: 90%;
+}
+
+.inner-back p{
+  padding-left: 25%;
+}
+
+.row{
+  width: 100%
+}
+
+.card{
+  top: 10%;
+  left: 25%;
+  size: 90%
+}
+
+/*
+.inner-text{
+
+text-align: left;
+font-size: 1rem;
+}
+*/
+
+.inner-text2{
+
+text-align: center;
+font-size: 1rem;
+}
+ 
+.instructions{
+  padding-left: 7vw;
+font-size: 1.2rem
+
+}
+
+
+
+
+@media only screen and (max-width : 991px){
+ 
+   
+      .white-back{
+         display: none;
+      }
+   
+ }
+
+
+/*forground ends*/

@@ -1,0 +1,233 @@
+/* whole page CSS*/
+
+
+.profile{
+	height: 100vh;
+	width: 100vw;
+
+}
+
+
+/*for col 1*/
+
+.col1{
+width: 25vw;
+
+}
+
+.profileImage img{
+	height: 40px;
+	width: 40px;
+	border-radius: 100%;
+}
+
+.icon{
+	border-radius: 4000%;
+}
+
+
+ .test:after {
+  content: '\2807';
+  font-size: 23px;
+  cursor: pointer;
+  }
+
+
+.chatImg{
+    
+    height: 50px;
+	width: 50px;
+	border-radius: 100%;
+}
+
+.hello{
+	
+	border-bottom: medium solid #EEECE9 !important;
+}
+
+
+.innerDiv{
+
+	width: 25vw;
+	height: 30px;
+}
+
+.innerDiv2{
+  
+  width: 80vw;
+  height: 30px;
+
+}
+
+
+
+/* For col 2 */
+
+.conDiv{
+	height: 60px;
+}
+
+.tc{
+	text-align: center;
+}
+
+.menu{
+	position: absolute;
+	top: 50px;
+	z-index: 2;
+	left: 310px;
+	background-color: #F2F1EE !important;
+}
+
+
+
+
+.remain{
+   background-color: white;
+   height: 100%
+
+}
+
+
+
+
+.small{
+	height: 2px;
+}
+
+
+
+
+
+
+
+
+/*.innerDiv .active{
+    background: red !important;
+}
+
+*/
+
+
+
+/*.listitem{
+width: 500px;
+
+}*/
+
+
+
+.chathistory{
+	height: 80vh;
+ overflow-y:scroll;
+
+
+}
+
+.message{
+	
+	width:  500px !important;
+}
+
+.textsize{
+
+	size: 1px;
+
+}
+
+
+
+.recieved{
+
+	
+}
+
+
+
+.inSize{
+
+	width: 85%
+}
+
+
+
+
+
+.name{
+	color: black;
+}
+
+.name:hover{
+text-decoration: none !important;
+color: black !important;
+}
+
+/*
+.chatclass{
+
+	height: 60px;
+}
+*/
+
+
+.chatIcon{
+
+	height: 5vh;
+	width: 3vw;
+}
+
+.chatIcon2{
+
+	height: 1vh;
+	width: 3vw;
+}
+
+
+.bolo{
+
+	background-color: red;
+	height: 100vh;
+}
+
+.bolo2{
+background-color: green;
+	height: 50vh;
+
+}
+/*.menu2{
+background-color: red;
+
+	position: absolute;
+	top: 1px;
+	height: 100%;
+	width: 67%;
+	left: 33%;
+	background-color: #EEECE9 !important;
+}
+*/
+
+h3{
+	text-align: center;
+}
+
+
+
+
+.cr{
+
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+}
+
+
+  .ml-auto  {
+      left: auto !important;
+      right: 0px;
+    }
+
+
+
+   
+
+
